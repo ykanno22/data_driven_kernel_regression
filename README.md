@@ -1,5 +1,6 @@
 # data_driven_kernel_regression
-Data-driven computing in elasticity via kernel regression
+
+(C) Yoshihiro Kanno, 2018
 
 Y. Kanno:
   ``Data-driven computing in elasticity via kernel regression.''
