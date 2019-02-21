@@ -1,3 +1,4 @@
+% Copyright (C) Yoshihiro Kanno, 2018 
 function F = comp_residual(x)
 
 global params truss_data samples
