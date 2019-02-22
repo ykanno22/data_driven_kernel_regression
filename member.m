@@ -1,3 +1,4 @@
+% Copyright (C) Yoshihiro Kanno, 2018
 function [dll,matH,coord_x,ir,irr,ird] = member(nx,ny)
 %
 dx = 360.0;
