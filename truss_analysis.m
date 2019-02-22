@@ -1,3 +1,4 @@
+% Copyright (C) Yoshihiro Kanno, 2018
 clear;
 close all;
 %
