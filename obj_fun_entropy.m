@@ -1,3 +1,4 @@
+% Copyright (C) Yoshihiro Kanno, 2018
 function f = obj_fun_entropy(x)
 
 global params truss_data samples
